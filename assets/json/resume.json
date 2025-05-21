@@ -1,8 +1,11 @@
 {
+  "meta": {
+    "theme": "elegant"
+  },
   "basics": {
     "name": "Bastien Muraccioli",
     "label": "PhD Researcher in pHRI",
-    "image": "",
+    "image": "https://avatars.githubusercontent.com/u/89765666",
     "url": "https://orcid.org/0009-0000-5408-4519",
     "summary": "French PhD researcher 🇫🇷🇯🇵 focused on safety-driven control of hybrid policy robots, merging model-based rigor with AI-powered adaptability.",
     "profiles": [
@@ -11,7 +14,14 @@
         "username": "Bastien Muraccioli",
         "url": "https://www.linkedin.com/in/bastien-muraccioli-0b5b41174/"
       }
-    ]
+    ],
+    "location": {
+      "address": "Japan",
+      "postalCode": "",
+      "city": "Tsukuba",
+      "countryCode": "",
+      "region": ""
+    }
   },
   "publications": [
     {
