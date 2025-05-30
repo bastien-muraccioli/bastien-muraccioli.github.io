@@ -1,14 +1,18 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - bastien-muraccioli
 
 repo_description_lines_max: 2
 
 github_repos:
-  - alshedivat/al-folio
-  - jekyll/jekyll
-  - twbs/bootstrap
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - mathjax/MathJax
-  - jpswalsh/academicons
+  - bastien-muraccioli/svlr
+  - industry-ready-phri/mc-rtc-superbuild
+  - bastien-muraccioli/awesome-mc-rtc-projects
+  - bastien-muraccioli/mc_ros_posture_pub_sub 
+  - bastien-muraccioli/figaroh_kinova
+  - bastien-muraccioli/figaroh_identification_controller 
+  - bastien-muraccioli/mc_energy_residual 
+  - bastien-muraccioli/mc_current_residual 
+  - bastien-muraccioli/obstacle_detection_jerk_estimator
+  - bastien-muraccioli/velocityDamper
+  - bastien-muraccioli/teaching-with-vector
+  - bastien-muraccioli/robotis-manipulator-h-arm-leap-motion
