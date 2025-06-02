@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='https://unit.aist.go.jp/jrl-22022/en/'>CNRS-AIST JRL</a>, <a href='https://aist.go.jp'>AIST</a>, <a href='https://www.umontpellier.fr/'>University of Montpellier</a>. Tsukuba, Japan. "Safe robots for better collaboration."
+subtitle: <a href='https://unit.aist.go.jp/jrl-22022/en/'>CNRS-AIST JRL</a>, <a href='https://www.aist.go.jp/'>AIST</a>, <a href='https://www.umontpellier.fr/'>University of Montpellier</a>. Tsukuba, Japan. "Safe robots for better collaboration."
 
 
 profile:
@@ -14,16 +14,16 @@ profile:
     <p>1-1-1 Umezono, Tsukuba</p>
     <p>Ibaraki 305-8568, Japan</p>
 
-selected_papers: true # includes a list of papers marked as "selected={true}"
+selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 
 announcements:
-  enabled: true # includes a list of news items
+  enabled: false # includes a list of news items
   scrollable: true # adds a vertical scroll bar if there are more than 3 news items
   limit: 5 # leave blank to include all the news in the `_news` folder
 
 latest_posts:
-  enabled: true
+  enabled: false
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
