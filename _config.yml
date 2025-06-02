@@ -12,7 +12,7 @@ description: > # the ">" symbol means to ignore newlines until "footer_text:"
   PhD researcher in robotics and AI based in Tsukuba, Japan 🇫🇷🇯🇵. Specialized in safety-oriented control for pHRI.
 footer_text: >
   <a href="https://www.linkedin.com/in/bastien-muraccioli-0b5b41174/" target="_blank">PhD Researcher in Robotics and AI</a>.
-keywords: jekyll, jekyll-theme, academic-website, portfolio-website, robotics, AI, human-robot interaction, PhD, Japan, generative AI, safety control, academic research # add your own keywords or leave empty
+keywords: academic-website, portfolio-website, robotics, AI, human-robot interaction, PhD, Japan, generative AI, safety control, academic research, physical human-robot interaction, pHRI, torque control, compliant control, intelligent robotics, embodied AI, robot safety, collaborative robotics, CNRS, AIST, JRL, University of Montpellier, computer vision, language-guided robotics, SLVR, deep learning, social robotics, research in Japan, engineering PhD, robotic manipulation, human-centered robotics
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: 🤖 # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
@@ -73,7 +73,7 @@ og_image: # The site-wide (default for all links) Open Graph preview image
 
 # For Google Analytics, see https://support.google.com/analytics/answer/10447272?hl=en&ref_topic=14088998&sjid=5129943941510317771-SA#zippy=%2Cgoogle-sites
 # and follow the instructions for Google Sites. You will need to create a Google Analytics property and copy the Google tag ID.
-google_analytics: # your Google Analytics measurement ID (format: G-XXXXXXXXXX)
+google_analytics: G-HB0L617J2Y # your Google Analytics measurement ID (format: G-XXXXXXXXXX)
 cronitor_analytics: # cronitor RUM analytics site ID (format: XXXXXXXXX)
 pirsch_analytics: # your Pirsch analytics site ID (length 32 characters)
 openpanel_analytics: # your Openpanel analytics client ID (format: XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX)
@@ -381,7 +381,7 @@ lazy_loading_images: true # enables lazy loading of images (recommended)
 # Optional Features
 # -----------------------------------------------------------------------------
 
-enable_google_analytics: false # enables google analytics
+enable_google_analytics: true # enables google analytics
 enable_cronitor_analytics: false # enables cronitor RUM analytics
 enable_pirsch_analytics: false # enables Pirsch analytics (https://pirsch.io/)
 enable_openpanel_analytics: false # enables Openpanel analytics (https://openpanel.dev/)
