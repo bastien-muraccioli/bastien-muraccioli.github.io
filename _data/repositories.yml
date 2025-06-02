@@ -7,11 +7,11 @@ github_repos:
   - bastien-muraccioli/svlr
   - industry-ready-phri/mc-rtc-superbuild
   - bastien-muraccioli/awesome-mc-rtc-projects
-  - bastien-muraccioli/mc_ros_posture_pub_sub 
+  - bastien-muraccioli/mc_ros_posture_pub_sub
   - bastien-muraccioli/figaroh_kinova
-  - bastien-muraccioli/figaroh_identification_controller 
-  - bastien-muraccioli/mc_energy_residual 
-  - bastien-muraccioli/mc_current_residual 
+  - bastien-muraccioli/figaroh_identification_controller
+  - bastien-muraccioli/mc_energy_residual
+  - bastien-muraccioli/mc_current_residual
   - bastien-muraccioli/obstacle_detection_jerk_estimator
   - bastien-muraccioli/velocityDamper
   - bastien-muraccioli/teaching-with-vector

@@ -144,7 +144,7 @@
       "url": "https://huggingface.co"
     }
   ],
-   "volunteer": [
+  "volunteer": [
     {
       "organization": "GAIA AI Project",
       "position": "IT Project Manager & Lead AI Developer",
@@ -193,10 +193,7 @@
       "startDate": "2018-09-01",
       "endDate": "2019-07-01",
       "summary": "Organized the annual national Parkour event 'Weekend FPK Montpellier 2019'.",
-      "highlights": [
-        "Secured sponsorships and coordinated guest invitations",
-        "Managed volunteer teams and planned event logistics"
-      ]
+      "highlights": ["Secured sponsorships and coordinated guest invitations", "Managed volunteer teams and planned event logistics"]
     }
   ],
   "languages": [
