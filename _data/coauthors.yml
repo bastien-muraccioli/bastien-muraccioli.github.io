@@ -1,27 +1,43 @@
 "venture":
-  - firstname: ["Gentiane Venture"]
+  - firstname: ["Gentiane", "G."]
     url: https://scholar.google.fr/citations?user=37DGuDUAAAAJ
 
 "urakami":
-  - firstname: ["Jacqueline Urakami"]
+  - firstname: ["Jacqueline", "J."]
     url: https://scholar.google.fr/citations?user=sgYUrKQAAAAJ
 
 "bourguet":
-  - firstname: ["Marie-Luce Bourguet"]
+  - firstname: ["Marie-Luce", "M.-L.", "Marie", "M."]
     url: https://scholar.google.fr/citations?user=xkuXNtsAAAAJ
 
 "kanehiro":
-  - firstname: ["Fumio Kanehiro"]
+  - firstname: ["Fumio", "F."]
     url: https://scholar.google.fr/citations?user=VsmhlM8AAAAJ
 
 "samson":
-  - firstname: ["Marie Samson"]
+  - firstname: ["Marie", "M."]
     url: https://www.linkedin.com/in/marie-samson-30953b226
 
 "benallegue":
-  - firstname: ["Mehdi Benallegue"]
+  - firstname: ["Mehdi", "M."]
     url: https://scholar.google.com/citations?user=TjWNmAQAAAAJ
 
 "celerier":
-  - firstname: ["Mathieu Celerier"]
+  - firstname: ["Mathieu", "M."]
     url: https://scholar.google.com/citations?user=Mr_JxYcAAAAJ
+
+"hu":
+  - firstname: ["Yue", "Y."]
+    url: https://scholar.google.co.jp/citations?user=_KAdZKEAAAAJ
+
+"cisneros":
+  - firstname: ["Rafael", "R.", "Rafael Cisneros", "R. C.", "Rafael C."]
+    url: https://scholar.google.com/citations?user=yErNnAUAAAAJ
+
+"limon":
+  - firstname: ["Rafael", "R.", "Rafael Cisneros", "Rafael Cisneros Limon", "Rafael C. Limon"]
+    url: https://scholar.google.com/citations?user=yErNnAUAAAAJ
+
+"kaminaga":
+  - firstname: ["Hiroshi", "H."]
+    url: https://scholar.google.co.jp/citations?user=tNGygrIAAAAJ
