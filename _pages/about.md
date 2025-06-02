@@ -4,7 +4,6 @@ title: about
 permalink: /
 subtitle: <a href='https://unit.aist.go.jp/jrl-22022/en/'>CNRS-AIST JRL</a>, <a href='https://www.aist.go.jp/'>AIST</a>, <a href='https://www.umontpellier.fr/'>University of Montpellier</a>. Tsukuba, Japan. "Safe robots for better collaboration."
 
-
 profile:
   align: right
   image: pp.jpeg
@@ -35,6 +34,7 @@ I am affiliated with the National Institute of Advanced Industrial Science and T
 Previously, I earned my M.Sc. in Engineering from Polytech Montpellier and completed research internships at **GrAI Matter Labs** in Paris and **Tokyo University of Agriculture and Technology**, where I co-authored a paper for the TEI 2022 conference on social robotics and embodied speech delivery.
 
 My recent work includes:
+
 - A **torque-control framework** for industrial pHRI, accepted at RSS 2025.
 - **Scalable Visual Language Robotics (SVLR)**, an open-source framework that enables natural language-based control of robots without retraining.
 
