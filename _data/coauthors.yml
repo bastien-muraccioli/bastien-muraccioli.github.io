@@ -1,34 +1,27 @@
-"adams":
-  - firstname: ["Edwin", "E.", "E. P.", "Edwin Plimpton"]
-    url: https://en.wikipedia.org/wiki/Edwin_Plimpton_Adams
+"venture":
+  - firstname: ["Gentiane Venture"]
+    url: https://scholar.google.fr/citations?user=37DGuDUAAAAJ
 
-"podolsky":
-  - firstname: ["Boris", "B.", "B. Y.", "Boris Yakovlevich"]
-    url: https://en.wikipedia.org/wiki/Boris_Podolsky
+"urakami":
+  - firstname: ["Jacqueline Urakami"]
+    url: https://scholar.google.fr/citations?user=sgYUrKQAAAAJ
 
-"rosen":
-  - firstname: ["Nathan", "N."]
-    url: https://en.wikipedia.org/wiki/Nathan_Rosen
+"bourguet":
+  - firstname: ["Marie-Luce Bourguet"]
+    url: https://scholar.google.fr/citations?user=xkuXNtsAAAAJ
 
-"bach":
-  - firstname: ["Johann Sebastian", "J. S."]
-    url: https://en.wikipedia.org/wiki/Johann_Sebastian_Bach
+"kanehiro":
+  - firstname: ["Fumio Kanehiro"]
+    url: https://scholar.google.fr/citations?user=VsmhlM8AAAAJ
 
-  - firstname: ["Carl Philipp Emanuel", "C. P. E."]
-    url: https://en.wikipedia.org/wiki/Carl_Philipp_Emanuel_Bach
+"samson":
+  - firstname: ["Marie Samson"]
+    url: https://www.linkedin.com/in/marie-samson-30953b226
 
-"przibram":
-  - firstname: ["Karl"]
-    url: https://link.springer.com/article/10.1007/s00016-019-00242-z
+"benallegue":
+  - firstname: ["Mehdi Benallegue"]
+    url: https://scholar.google.com/citations?user=TjWNmAQAAAAJ
 
-"schrodinger":
-  - firstname: ["Erwin"]
-    url: https://en.wikipedia.org/wiki/Erwin_Schr%C3%B6dinger
-
-"lorentz":
-  - firstname: ["Hendrik Antoon"]
-    url: https://en.wikipedia.org/wiki/Hendrik_Lorentz
-
-"planck":
-  - firstname: ["Max"]
-    url: https://en.wikipedia.org/wiki/Max_Planck
+"celerier":
+  - firstname: ["Mathieu Celerier"]
+    url: https://scholar.google.com/citations?user=Mr_JxYcAAAAJ
