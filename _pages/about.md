@@ -6,7 +6,7 @@ subtitle: <a href='https://unit.aist.go.jp/jrl-22022/en/'>CNRS-AIST JRL</a>, <a 
 
 profile:
   align: right
-  image: pp.jpeg
+  image: "https://avatars.githubusercontent.com/u/89765666"
   image_circular: true # crops the image to make it circular
   more_info: >
     <p>JRL, AIST Tsukuba</p>
