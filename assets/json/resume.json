@@ -22,6 +22,14 @@
   },
   "publications": [
     {
+      "name": "Safe Execution of RL Policies via Acceleration-based CBF-QP Constraint Enforcement for Real-World Robotic Deployments",
+      "publisher": "IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS 2026)",
+      "releaseDate": "2026-07-16",
+      "authors": "Bastien Muraccioli, Alice Cariou, Pierre-Alexandre Leziart, Mathieu Celerier, Arnaud Demont, Gentiane Venture, Mehdi Benallegue",
+      "url": "https://safe-rl-qp.github.io/",
+      "summary": "Acc-CBF-QP, an open-source, runtime safety filter that uses Control Barrier Functions and Quadratic Programming to prevent legged and manipulating robots from violating physical constraints when running Reinforcement Learning policies. Validated on physical hardware, it maintains task performance in safe conditions while reducing constraint violations by up to 92% on a humanoid robot and completely eliminating them on a robotic arm."
+    },
+    {
       "name": "Demonstrating a Control Framework for Physical Human-Robot Interaction Toward Industrial Applications",
       "publisher": "Proceedings of Robotics: Science and Systems (RSS) 2025",
       "releaseDate": "2025-02-05",
