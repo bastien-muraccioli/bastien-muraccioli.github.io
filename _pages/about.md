@@ -29,7 +29,6 @@ latest_posts:
 
 I am a Ph.D. researcher in robotics, currently based at the CNRS-AIST Joint Robotics Laboratory (JRL) in Tsukuba, Japan. My work focuses on **safe and adaptable human-robot collaboration**, with a particular interest in **physical human-robot interaction (pHRI)**, **Humanoids**, **VLA**, **RL**, and **hybridization of model-based and learning-based approaches for formal safety guarantees**
 
-
 Feel free to reach out or connect via the links below.  
 I also occasionally post updates and open-source code—check out my latest posts or [publications](/publications/).
 
