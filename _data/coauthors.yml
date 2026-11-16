@@ -41,3 +41,15 @@
 "kaminaga":
   - firstname: ["Hiroshi", "H."]
     url: https://scholar.google.co.jp/citations?user=tNGygrIAAAAJ
+
+"cariou":
+  - firstname: ["Alice", "A."]
+    url: https://www.linkedin.com/in/cariou-alice
+
+"leziart":
+  - firstname: ["Pierre-Alexandre", "P.-A.", "Pierre", "P."]
+    url: https://paleziart.github.io/
+
+"demont":
+  - firstname: ["Arnaud", "A."]
+    url: https://www.linkedin.com/in/arnaud-demont

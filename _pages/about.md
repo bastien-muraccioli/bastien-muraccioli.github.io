@@ -13,7 +13,7 @@ profile:
     <p>1-1-1 Umezono, Tsukuba</p>
     <p>Ibaraki 305-8568, Japan</p>
 
-selected_papers: false # includes a list of papers marked as "selected={true}"
+selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 
 announcements:
@@ -27,18 +27,8 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am a Ph.D. researcher in robotics, currently based at the CNRS-AIST Joint Robotics Laboratory (JRL) in Tsukuba, Japan. My work focuses on **safe and adaptable human-robot collaboration**, with a particular interest in **compliant torque control**, **physical human-robot interaction (pHRI)**, and **real-time visual-linguistic robotic frameworks**.
+I am a Ph.D. researcher in robotics, currently based at the CNRS-AIST Joint Robotics Laboratory (JRL) in Tsukuba, Japan. My work focuses on **safe and adaptable human-robot collaboration**, with a particular interest in **physical human-robot interaction (pHRI)**, **Humanoids**, **VLA**, **RL**, and **hybridization of model-based and learning-based approaches for formal safety guarantees**
 
-I am affiliated with the National Institute of Advanced Industrial Science and Technology (AIST) and the University of Montpellier, where I pursue research that bridges control engineering, AI, and embodied intelligence. I aim to develop robotic systems that are not only intelligent but also safe and intuitive for human interaction in real-world environments.
-
-Previously, I earned my M.Sc. in Engineering from Polytech Montpellier and completed research internships at **GrAI Matter Labs** in Paris and **Tokyo University of Agriculture and Technology**, where I co-authored a paper for the TEI 2022 conference on social robotics and embodied speech delivery.
-
-My recent work includes:
-
-- A **torque-control framework** for industrial pHRI, accepted at RSS 2025.
-- **Scalable Visual Language Robotics (SVLR)**, an open-source framework that enables natural language-based control of robots without retraining.
-
-I'm passionate about blending **deep learning**, **control systems**, and **human-centered design** to improve safety and usability in robotics.
 
 Feel free to reach out or connect via the links below.  
 I also occasionally post updates and open-source code—check out my latest posts or [publications](/publications/).
